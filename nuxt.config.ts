@@ -19,6 +19,9 @@ export default defineNuxtConfig({
       ],
     },
   },
+  nitro: {
+    preset: "vercel",
+  },
   router: {
     options: {
       scrollBehaviorType: "smooth", // aktifkan smooth scroll
