@@ -63,7 +63,7 @@ const portfolios = [
     description: "Penggantian rangka lama menjadi baja ringan.",
   },
   {
-    image: "/images/CNP_75X35.jpeg",
+    image: "/images/CNP_75x35.jpeg",
     title: "CNP 75X35",
     description: "Penggantian rangka lama menjadi baja ringan.",
   },
