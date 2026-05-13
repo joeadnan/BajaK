@@ -18,7 +18,7 @@ defineProps<{
     <h3 class="text-secondary font-extrabold text-xl mb-3">
       {{ title }}
     </h3>
-    <p class="text-slate-200 text-sm leading-relaxed">
+    <p class="text-slate-600 text-sm leading-relaxed">
       {{ description }}
     </p>
   </div>

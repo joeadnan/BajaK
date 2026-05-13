@@ -22,17 +22,16 @@
         </p>
 
         <h2
-          class="text-5xl md:text-7xl font-black text-inherit leading-tight mb-6"
+          class="sm:text-5xl md:text-7xl font-black text-inherit leading-tight mb-4"
         >
           Bangunan Kuat Dengan
-          <span class="text-secondary">Baja Ringan Berkualitas.</span>
+          <span class="text-secondary">Baja Ringan</span>
+          <p class="text-yellow-500">Berkualitas.</p>
         </h2>
 
         <p class="text-slate-700 text-lg max-w-xl mb-8">
           Penyedia solusi material dan instalasi baja ringan terpercaya. BajaKu
-          menghadirkan produk rangka atap, kanopi, hingga plafon berkualitas
-          untuk proyek hunian maupun skala besar seperti gudang dan gedung
-          komersiall.
+          menghadirkan produk rangka atap, kanopi, hingga plafon berkualitas.
         </p>
 
         <div class="flex flex-wrap gap-4">

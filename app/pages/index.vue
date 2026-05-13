@@ -91,7 +91,7 @@ const portfolios = [
             <span class="text-highlight"> BajaKu </span>
           </h2>
 
-          <p class="mt-4 text-slate-600">
+          <p class="mt-4 text-slate-700">
             Solusi konstruksi baja ringan profesional untuk berbagai kebutuhan
             bangunan.
           </p>
@@ -135,7 +135,7 @@ const portfolios = [
             <span class="text-highlight"> Solusi Atap Kuat Tahan Karat. </span>
           </h2>
 
-          <p class="mb-8 leading-relaxed text-slate-600">
+          <p class="mb-8 leading-relaxed text-slate-700">
             BajaKu hadir untuk membantu kebutuhan konstruksi baja ringan mulai
             dari perencanaan, pengukuran, pemilihan material, hingga pemasangan
             di lapangan.
@@ -147,7 +147,7 @@ const portfolios = [
                 Visi Kami
               </h3>
 
-              <p class="text-slate-600">
+              <p class="text-slate-700">
                 Menjadi penyedia solusi baja ringan terdepan yang mengutamakan
                 standar keamanan tinggi, kekuatan material premium, dan
                 ketahanan bangunan jangka panjang.
@@ -159,7 +159,7 @@ const portfolios = [
                 Misi Kami
               </h3>
 
-              <p class="text-slate-600">
+              <p class="text-slate-700">
                 Memberikan layanan purna jual dan garansi produk demi kepuasan
                 pelanggan.
               </p>
@@ -181,9 +181,9 @@ const portfolios = [
               <span class="text-highlight"> Yang Kami Tawarkan. </span>
             </h2>
 
-            <p class="mt-4 max-w-2xl text-slate-600">
+            <p class="mt-4 max-w-2xl text-slate-700">
               Wujudkan Bangunan Impian dengan Produk Baja Ringan Berkualitas –
-              Cek Inspirasi Proyek Kami!
+              Cek Inspirasi Product Kami!
             </p>
           </div>
 
