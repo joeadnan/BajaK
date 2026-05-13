@@ -136,9 +136,9 @@ const portfolios = [
           </h2>
 
           <p class="mb-8 leading-relaxed text-slate-700">
-            BajaKu hadir untuk membantu kebutuhan konstruksi baja ringan mulai
-            dari perencanaan, pengukuran, pemilihan material, hingga pemasangan
-            di lapangan.
+            Ribuan proyek konstruksi mengandalkan BajaKu untuk material baja
+            ringan terbaik mereka. Dengan pengalaman lebih dari 10 tahun, kami
+            menyediakan rangka
           </p>
 
           <div class="space-y-5">
