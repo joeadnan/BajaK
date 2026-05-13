@@ -22,7 +22,7 @@
         </p>
 
         <h2
-          class="sm:text-5xl md:text-7xl font-black text-inherit leading-tight mb-6"
+          class="text-3xl sm:text-5xl md:text-7xl font-black text-inherit leading-tight mb-6"
         >
           Bangunan Kuat Dengan
           <span class="text-secondary">Baja Ringan</span>
