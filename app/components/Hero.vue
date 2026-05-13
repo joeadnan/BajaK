@@ -26,7 +26,7 @@
         >
           Bangunan Kuat Dengan
           <span class="text-secondary">Baja Ringan</span>
-          <p class="text-yellow-500">Berkualitas.</p>
+          <p class="text-yellow-700">Berkualitas.</p>
         </h2>
 
         <p class="text-slate-700 text-lg max-w-xl mb-8">
