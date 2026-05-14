@@ -77,11 +77,6 @@ const portfolios = [
       <Hero />
     </section>
 
-    <!-- CONTACT -->
-    <section id="contact">
-      <Contact />
-    </section>
-
     <!-- SERVICES -->
     <section id="services" class="bg-white py-20">
       <div class="container-custom">
@@ -102,6 +97,37 @@ const portfolios = [
             v-for="service in services"
             :key="service.title"
             v-bind="service"
+          />
+        </div>
+      </div>
+    </section>
+
+    <!-- PORTFOLIO -->
+    <section id="portfolio" class="bg-white py-24">
+      <div class="container-custom">
+        <div
+          class="mb-12 flex flex-col justify-between gap-6 md:flex-row md:items-end"
+        >
+          <div>
+            <h2 class="section-title">
+              Product Baja Ringan
+              <span class="text-highlight"> Yang Kami Tawarkan. </span>
+            </h2>
+
+            <p class="mt-4 max-w-2xl text-slate-700">
+              Wujudkan Bangunan Impian dengan Produk Baja Ringan Berkualitas –
+              Cek Inspirasi Product Kami!
+            </p>
+          </div>
+
+          <NuxtLink to="#portfolio" class="btn-primary"> Lihat Semua </NuxtLink>
+        </div>
+
+        <div class="grid gap-6 md:grid-cols-4">
+          <PortfolioCard
+            v-for="portfolio in portfolios"
+            :key="portfolio.title"
+            v-bind="portfolio"
           />
         </div>
       </div>
@@ -169,35 +195,9 @@ const portfolios = [
       </div>
     </section>
 
-    <!-- PORTFOLIO -->
-    <section id="portfolio" class="bg-white py-24">
-      <div class="container-custom">
-        <div
-          class="mb-12 flex flex-col justify-between gap-6 md:flex-row md:items-end"
-        >
-          <div>
-            <h2 class="section-title">
-              Product Baja Ringan
-              <span class="text-highlight"> Yang Kami Tawarkan. </span>
-            </h2>
-
-            <p class="mt-4 max-w-2xl text-slate-700">
-              Wujudkan Bangunan Impian dengan Produk Baja Ringan Berkualitas –
-              Cek Inspirasi Product Kami!
-            </p>
-          </div>
-
-          <NuxtLink to="#portfolio" class="btn-primary"> Lihat Semua </NuxtLink>
-        </div>
-
-        <div class="grid gap-6 md:grid-cols-4">
-          <PortfolioCard
-            v-for="portfolio in portfolios"
-            :key="portfolio.title"
-            v-bind="portfolio"
-          />
-        </div>
-      </div>
+    <!-- CONTACT -->
+    <section id="contact">
+      <Contact />
     </section>
   </main>
 </template>
